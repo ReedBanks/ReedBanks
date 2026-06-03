@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reedbanks&label=Profile%20views&color=0e75b6&style=flat" alt="reedbanks" /> </p>
 
-- 🔭 I’m currently working on **building pentesting tools**
-
-- 🌱 I’m currently learning **python scripting ,java ,spring,c# and blazor**
-
+- 🔭 Couldn't settle on a niche so am just in flow state
 - 👨‍💻 All of my projects are available at [https://github.com/ReedBanks?tab=repositories](https://github.com/ReedBanks?tab=repositories)
 
 - 💬 Ask me about **networking , cybersecurity or backend development**
