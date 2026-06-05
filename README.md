@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Reed Banks</h1>
-<h3 align="center">A passionate Sofware Engineer and Penetration tester</h3>
+<h3 align="center"> Build Stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reedbanks&label=Profile%20views&color=0e75b6&style=flat" alt="reedbanks" /> </p>
 
 - 🔭 Couldn't settle on a niche so am just in flow state
 - 👨‍💻 All of my projects are available at [https://github.com/ReedBanks?tab=repositories](https://github.com/ReedBanks?tab=repositories)
 
-- 💬 Ask me about **networking , cybersecurity or backend development**
-
+- 💬 Ask me about proggramming, networking , cybersecurity, Robotics, backend development
 - 📫 How to reach me **rexxstark20@gmail.com**
 
 - ⚡ Fun fact **I think i am !funny**
